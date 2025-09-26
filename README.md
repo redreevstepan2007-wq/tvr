@@ -10,4 +10,7 @@ typing_extensions~=4.15.0
 greenlet~=3.2.4
 pydantic~=2.11.9
 pydantic_core~=2.33.2"
+#подключенние к бд
+
+
 заходим в файл main.py и пробуем запустить, если не запускает пробуем через терминал прописывать python -m app.main
